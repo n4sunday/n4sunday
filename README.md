@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hey 👋, Sunday
 
 
-[![Gmail Badge](https://img.shields.io/badge/-dev.nattapon.s0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.nattapon.s0@gmail.com)](mailto:dev.nattapon.s0@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-n4sunday-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajk3770/)](https://www.linkedin.com/in/nattapon-lueakaew-559124200/) [![Github Badge](https://img.shields.io/badge/-n4sunday-grey?style=flat&logo=github&logoColor=white&link=https://github.com/n4sunday/)](https://www.github.com/n4sunday/) [![Twitter Badge](https://img.shields.io/badge/-n4sunday-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/n4sunday/)](https://www.twitter.com/n4sunday/) 
+[![Gmail Badge](https://img.shields.io/badge/-dev.nattapon.s@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.nattapon.s@gmail.com)](mailto:dev.nattapon.s@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-n4sunday-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajk3770/)](https://www.linkedin.com/in/nattapon-lueakaew-559124200/) [![Github Badge](https://img.shields.io/badge/-n4sunday-grey?style=flat&logo=github&logoColor=white&link=https://github.com/n4sunday/)](https://www.github.com/n4sunday/) [![Twitter Badge](https://img.shields.io/badge/-n4sunday-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/n4sunday/)](https://www.twitter.com/n4sunday/) 
 
 <p align="left">
 <img src=https://github-readme-stats.vercel.app/api?username=n4sunday&show_icons=true&include_all_commits=true&count_private=true alt=rahuldkjain />
