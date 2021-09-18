@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src=https://github-readme-stats.vercel.app/api?username=n4sunday&show_icons=true&include_all_commits=true&count_private=true alt=rahuldkjain />
 </p> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n4sunday&langs_count=20&layout=compact&&hide_title=true&&)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n4sunday&langs_count=20&layout=compact&&hide_title=true&&)](https://github.com/anuraghazra/github-readme-stats) -->
  
 [![n4sunday stats](https://github-readme-stats.vercel.app/api/wakatime?username=n4sunday&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
  
