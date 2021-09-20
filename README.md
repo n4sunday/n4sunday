@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-dev.nattapon.s@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.nattapon.s@gmail.com)](mailto:dev.nattapon.s@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-n4sunday-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajk3770/)](https://www.linkedin.com/in/nattapon-lueakaew-559124200/) [![Github Badge](https://img.shields.io/badge/-n4sunday-grey?style=flat&logo=github&logoColor=white&link=https://github.com/n4sunday/)](https://www.github.com/n4sunday/) [![Twitter Badge](https://img.shields.io/badge/-n4sunday-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/n4sunday/)](https://www.twitter.com/n4sunday/) 
 
 ### 🚀 Programing Language 
-`Typescript` `Javascript` `Go` `Solidity`
+`TypeScript` `JavaScript` `Go` `Solidity`
 
 ### 🚀 Frontend 
 `React` `NextJS` `VueJS` `NuxtJS`
