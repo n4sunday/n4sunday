@@ -35,3 +35,4 @@ Here are some ideas to get you started:
  
 [![n4sunday stats](https://github-readme-stats.vercel.app/api/wakatime?username=n4sunday&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
+<a href="https://app.daily.dev/n4sunday"><img src="https://api.daily.dev/devcards/90a3027c7d9d4c3aa48e565c8c5a9982.png?r=8io" width="400" alt="Nattapon Lueakeaw's Dev Card"/></a>
